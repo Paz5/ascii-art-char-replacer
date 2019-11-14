@@ -1,7 +1,7 @@
-f = open("sergascii.txt")
+f = open("githubascii.txt")
 string = ''
 i = 0
-CHARTOREPLACE = ','
+CHARTOREPLACE = 'N'
 STRINGREPLACEMENT = 'sphinx of black quartz, judge my vow'
 
 for line in f:
