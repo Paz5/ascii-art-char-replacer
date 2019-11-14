@@ -1,7 +1,7 @@
 # ascii-art-char-replacer
 Replaces one char with with a string
 
-EXAMPLE FOR DEFAULT STRING:                                                                 
+EXAMPLE FOR DEFAULT STRING, VIEW AS RAW:                                                                 
                                             `..-----...`                                            
                                     `.:+oyhddmmmmmmmmmmddhyo/:.`                                    
                                 .:oydmNNNNNNNNNNNNNNNNNNNNNNNmmdy+-`                                
