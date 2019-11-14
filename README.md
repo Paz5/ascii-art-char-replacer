@@ -2,7 +2,45 @@
 Replaces one char with with a string
 
 Exaple for a default string:                                                                 
-
+                                                
+                                            `..-----...`                                            
+                                    `.:+oyhddmmmmmmmmmmddhyo/:.`                                    
+                              ` .:oydmNNNNNNNNNNNNNNNNNNNNNNNmmdy+-`                                
+                             -+ydNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdy/.                             
+                          .+hmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmy/`                          
+                        -sdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdo.                        
+                      -ymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNms.                      
+                    .smNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmo`                    
+                   /dNNNNNNNNNyyhddNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhyyhNNNNNNNNNh-                   
+                 `sNNNNNNNNNNs   `.-+ydNNNNNmmmmmddmmmmNNNNNNdy+-.`   hNNNNNNNNNm+                  
+                `yNNNNNNNNNNN-        .:so/:--........-::+oo:`        /NNNNNNNNNNNs`                
+               `hNNNNNNNNNNNN`                                        -NNNNNNNNNNNNs`               
+               yNNNNNNNNNNNNN-                                        /NNNNNNNNNNNNNo               
+              oNNNNNNNNNNNNNNo                                        yNNNNNNNNNNNNNN/              
+             -NNNNNNNNNNNNNNo`                                        .yNNNNNNNNNNNNNm`             
+             yNNNNNNNNNNNNN+                                            sNNNNNNNNNNNNNo             
+            .NNNNNNNNNNNNNs                                              hNNNNNNNNNNNNm             
+            /NNNNNNNNNNNNN.                                              /NNNNNNNNNNNNN-            
+            sNNNNNNNNNNNNm                                               .NNNNNNNNNNNNN/            
+            yNNNNNNNNNNNNm                                               .NNNNNNNNNNNNN+            
+            sNNNNNNNNNNNNN.                                              :NNNNNNNNNNNNN+            
+            oNNNNNNNNNNNNN/                                              sNNNNNNNNNNNNN/            
+            :NNNNNNNNNNNNNd`                                            .mNNNNNNNNNNNNN.            
+            `mNNNNNNNNNNNNNs                                           `hNNNNNNNNNNNNNh             
+             oNNNNNNNNNNNNNNs`                                        .yNNNNNNNNNNNNNN/             
+             `dNNNNNNNNNNNNNNd:                                     `+dNNNNNNNNNNNNNNh              
+              :NNNNNNNNNNNNNNNNd+-`                              `-odNNNNNNNNNNNNNNNm.              
+               +NNNNNNs-:+ydNNNNNmdy+:-.`                 ``.-/oydmNNNNNNNNNNNNNNNNm:               
+                oNNNNNmy/``/+dNNNNNNNNmmdh:              +ddmmNNNNNNNNNNNNNNNNNNNNm/                
+                 +mNNNNNNh-`.+yNNNNNNNNNN/                oNNNNNNNNNNNNNNNNNNNNNNm:                 
+                  :dNNNNNNm:``:oydmNNNmds                 `mNNNNNNNNNNNNNNNNNNNNh-                  
+                   .smNNNNNm: `.`s:-s/-o.                  hNNNNNNNNNNNNNNNNNNmo`                   
+                     :hNNNNNms-` `  .` `                   yNNNNNNNNNNNNNNNNmy-                     
+                      `/hNNNNNmdyo+////+:                  yNNNNNNNNNNNNNNmy:                       
+                        `:ymNNNNNNNNNNNNo                  hNNNNNNNNNNNNds-                         
+                           .+hmNNNNNNNNNo                  hNNNNNNNNNmy/.                           
+                              ./ydmNNNNNs                  hNNNNNmds/.                              
+                                 `-/shdh:                  /ddho/-`     
                                             `..-----...`                                            
                                     `.:+oyhddmmmmmmmmmmddhyo/:.`                                    
                                 .:oydmsphinx of black quartz,mmdy+-`                                
@@ -40,41 +78,4 @@ Exaple for a default string:
                         `:ym, judge my vo                  howsphinx of ds-                         
                            .+hmblack quao                  hrtz, judgmy/.                           
                               ./ydme my s                  hvowspmds/.                              
-                                 `-/shdh:                  /ddho/-`            `                                                `..-----...`                                            
-                                    `.:+oyhddmmmmmmmmmmddhyo/:.`                                    
-                              ` .:oydmNNNNNNNNNNNNNNNNNNNNNNNmmdy+-`                                
-                             -+ydNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdy/.                             
-                          .+hmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmy/`                          
-                        -sdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdo.                        
-                      -ymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNms.                      
-                    .smNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmo`                    
-                   /dNNNNNNNNNyyhddNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhyyhNNNNNNNNNh-                   
-                 `sNNNNNNNNNNs   `.-+ydNNNNNmmmmmddmmmmNNNNNNdy+-.`   hNNNNNNNNNm+                  
-                `yNNNNNNNNNNN-        .:so/:--........-::+oo:`        /NNNNNNNNNNNs`                
-               `hNNNNNNNNNNNN`                                        -NNNNNNNNNNNNs`               
-               yNNNNNNNNNNNNN-                                        /NNNNNNNNNNNNNo               
-              oNNNNNNNNNNNNNNo                                        yNNNNNNNNNNNNNN/              
-             -NNNNNNNNNNNNNNo`                                        .yNNNNNNNNNNNNNm`             
-             yNNNNNNNNNNNNN+                                            sNNNNNNNNNNNNNo             
-            .NNNNNNNNNNNNNs                                              hNNNNNNNNNNNNm             
-            /NNNNNNNNNNNNN.                                              /NNNNNNNNNNNNN-            
-            sNNNNNNNNNNNNm                                               .NNNNNNNNNNNNN/            
-            yNNNNNNNNNNNNm                                               .NNNNNNNNNNNNN+            
-            sNNNNNNNNNNNNN.                                              :NNNNNNNNNNNNN+            
-            oNNNNNNNNNNNNN/                                              sNNNNNNNNNNNNN/            
-            :NNNNNNNNNNNNNd`                                            .mNNNNNNNNNNNNN.            
-            `mNNNNNNNNNNNNNs                                           `hNNNNNNNNNNNNNh             
-             oNNNNNNNNNNNNNNs`                                        .yNNNNNNNNNNNNNN/             
-             `dNNNNNNNNNNNNNNd:                                     `+dNNNNNNNNNNNNNNh              
-              :NNNNNNNNNNNNNNNNd+-`                              `-odNNNNNNNNNNNNNNNm.              
-               +NNNNNNs-:+ydNNNNNmdy+:-.`                 ``.-/oydmNNNNNNNNNNNNNNNNm:               
-                oNNNNNmy/``/+dNNNNNNNNmmdh:              +ddmmNNNNNNNNNNNNNNNNNNNNm/                
-                 +mNNNNNNh-`.+yNNNNNNNNNN/                oNNNNNNNNNNNNNNNNNNNNNNm:                 
-                  :dNNNNNNm:``:oydmNNNmds                 `mNNNNNNNNNNNNNNNNNNNNh-                  
-                   .smNNNNNm: `.`s:-s/-o.                  hNNNNNNNNNNNNNNNNNNmo`                   
-                     :hNNNNNms-` `  .` `                   yNNNNNNNNNNNNNNNNmy-                     
-                      `/hNNNNNmdyo+////+:                  yNNNNNNNNNNNNNNmy:                       
-                        `:ymNNNNNNNNNNNNo                  hNNNNNNNNNNNNds-                         
-                           .+hmNNNNNNNNNo                  hNNNNNNNNNmy/.                           
-                              ./ydmNNNNNs                  hNNNNNmds/.                              
-                                 `-/shdh:                  /ddho/-`                                 `            
+                                 `-/shdh:                  /ddho/-`            `                            `            
