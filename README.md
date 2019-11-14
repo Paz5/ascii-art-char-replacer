@@ -2,7 +2,7 @@
 Replaces one char with with a string
 
 EXAMPLE FOR DEFAULT STRING:                                                                 
-                                           `..-----...`                                            
+                                           ```..-----...`                                            
                                     `.:+oyhddmmmmmmmmmmddhyo/:.`                                    
                               ` .:oydmNNNNNNNNNNNNNNNNNNNNNNNmmdy+-`                                
                              -+ydNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdy/.                             
@@ -39,7 +39,7 @@ EXAMPLE FOR DEFAULT STRING:
                         `:ymNNNNNNNNNNNNo                  hNNNNNNNNNNNNds-                         
                            .+hmNNNNNNNNNo                  hNNNNNNNNNmy/.                           
                               ./ydmNNNNNs                  hNNNNNmds/.                              
-                                 `-/shdh:                  /ddho/-`                                 
+                                 `-/shdh:                  /ddho/-```                                 
 
 
                                             `..-----...`                                            
