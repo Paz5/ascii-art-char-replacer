@@ -15,6 +15,6 @@ for line in f:
 			string += char
 
 f.close()
-out = open(f'replaced_with_{STRINGREPLACEMENT}.txt','w')
+out = open(f'replaced_with_({STRINGREPLACEMENT}).txt','w')
 out.write(string)
 out.close()
