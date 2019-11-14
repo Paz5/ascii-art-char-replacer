@@ -1,7 +1,7 @@
 # ascii-art-char-replacer
 Replaces one char with with a string
 
-#More than 100x quicker to make than my friend's C++ version!
+## More than 100x quicker to make than my friend's C++ version!
 
 It can be found [here](https://gist.github.com/jegjag/a5009ca4de4f030d1043062c9646eb2f)
 
